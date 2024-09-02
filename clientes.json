@@ -1,0 +1,18 @@
+{
+    "nicolasg@outlook.com": {
+        "Nombre": "Nicolas",
+        "Apellido": "Gemignani",
+        "Edad": 25,
+        "Email": "nicolasg@outlook.com",
+        "Celular": 1153522185,
+        "ID": "1"
+    },
+    "alejandrof@outlook.com": {
+        "Nombre": "Alejandro",
+        "Apellido": "Gemignani",
+        "Edad": 27,
+        "Email": "alejandrof@outlook.com",
+        "Celular": 1187233487,
+        "ID": "2"
+    }
+}

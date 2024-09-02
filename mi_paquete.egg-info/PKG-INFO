@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mi_paquete
+Version: 0.1
+Summary: Paquete para modelar clientes de una pagina de compras
+Author: Nicolas Gemignani
+Requires-Python: >=3.6
